@@ -43,7 +43,7 @@ For the standalone executable (`searchWindows.exe`), no setup is required.
 ### Running the Python Script
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/searchWindows.git
+   git clone https://github.com/ankit351104/searchWindows.git
    cd searchWindows
    ```
 2. Run the script:

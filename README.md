@@ -69,6 +69,8 @@ For the standalone executable (`searchWindows.exe`), no setup is required.
 ---
 
 ## Screenshots
+![Screenshot 2024-12-21 134615](https://github.com/user-attachments/assets/17b9abed-0ab8-4763-8caf-d8bb9035b971)
 
+![Screenshot 2024-12-21 134822](https://github.com/user-attachments/assets/2275e91b-501e-4be9-be50-680a868ac3f9)
 
 ---
